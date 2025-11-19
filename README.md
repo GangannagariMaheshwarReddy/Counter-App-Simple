@@ -1,6 +1,6 @@
 # Counter App
 
-A simple, clean, beginner-friendly React Counter Application where the counter value is displayed between the + and – buttons.
+A simple, clean, beginner-friendly Counter Application where the counter value is displayed between the + and – buttons.
 The UI is modern, responsive, and fully centered inside one container.
 
 🚀 Features
